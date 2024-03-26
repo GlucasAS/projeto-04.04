@@ -8,15 +8,14 @@ main{
     text-align: center;
 }
 div{
-    height: 500px;
-    width: 223px;
+    height: 200px;
+    width: 200px;
     display: inline-block;
     background-color: white;
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
-    background-image: url('imagens/porta-macica-americana.jpg');
-    background-size: cover;
+   
 
 }
 header{
@@ -28,4 +27,7 @@ h1{
     color: white;
     
     
+}
+a{
+    text-decoration: none;
 }

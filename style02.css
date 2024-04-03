@@ -10,6 +10,14 @@ p{
     text-align: center;
 }
 
+a#certo{
+    color: black;
+}
+
+a#certo:hover{
+    text-decoration: none;
+}
+
 a{
     text-decoration: none;
     color: blue;
